@@ -7,7 +7,7 @@ Install the game on Android!
 6. complete installation
 7. Open the game on desktop and play!
 
-How to find other versions of the game in releases?
-1. Open "compare".
-2. Select Tag, example: "Alpha 1.0.1".
-3. download UniverseBox.apk from the selected tag.
+How to find other versions of the game?
+1. Click "+1 releases".
+2. Select Release.
+3. download UniverseBox.apk from the selected release.
